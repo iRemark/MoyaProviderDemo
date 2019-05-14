@@ -1,0 +1,6 @@
+framework module MoyaProviderKit {
+  umbrella header "MoyaProviderKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
